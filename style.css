@@ -74,12 +74,12 @@ p{
 	}
 	.container {
 		width: 90vw ;
-		margin: 0px 30px 0px 30px;
+		margin: 0px 45px 0px 45px;
 	}
 
 	.carnet-img {
-		width: 320px;
-		height: 200px;
+		width: 400px;
+		height: 250px;
 	}
 	.carnet-flex {
 		display: flex;
