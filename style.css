@@ -41,3 +41,27 @@ p{
   width: 656px;
   height: 417px;
 }
+
+/* breakpoint */
+@media screen and (max-width: 900px) {
+	body {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+    flex-direction: column;
+	}
+	.container {
+		width: 90vw ;
+	}
+
+	.carnet-img {
+		width: 250px;
+		height: 150px;
+	}
+	.carnet-flex {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}
